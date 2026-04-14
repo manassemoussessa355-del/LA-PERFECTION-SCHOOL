@@ -1,0 +1,18 @@
+﻿/* style.css
+   Styles complémentaires en français pour le portfolio.
+*/
+:root {
+  color-scheme: dark;
+}
+body {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-image: radial-gradient(circle at top, rgba(16, 185, 129, 0.12), transparent 20%),
+                    radial-gradient(circle at bottom right, rgba(59, 130, 246, 0.15), transparent 18%);
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+}

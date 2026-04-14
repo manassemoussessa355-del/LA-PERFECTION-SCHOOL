@@ -1,0 +1,25 @@
+j'ai besoin que tu me cree un un porfolio personnelle et officielle
+tu prendras la photo de la racine qui est sur vs code
+pour les informations personnelle, mon nom c'est MOUSSESSA, Prénoms: Manassé Joseph, je suis
+né le 24/02/1998 à Brazzaville, celibataire et sans enfants, j'habite au 17 Rue Tokou Mpila Talangai republique du congo
+concernant mes diplomes: 
+j'ai le CEPE (certificat d'étude primaire elementaire) 2009-2010 à l'école les cadres de demain
+le BEPC (brevet d'étude du premier cycle) 2013-2014 à l'école les cadres de demain
+le BAC série C (baccalaureat) 2016-2017 au lycée de la revolution
+la licence en Mathématiques à l'université marien ngouabi
+pour le loisir j'aime le sport et la musique
+pour une personne qui souhaite me contacter:
+mon numéro télephonique est 242 06 803 70 45
+mon numero whastapp est 242 06 803 70 45
+mon compte gmail est manassemoussessa355@gmail.com
+aussi, j'ai une chaine youtube du nom de la perfection school, et sur cette chaine j'enseigne les mathématiques et sciences physiques pour tout les niveaux
+voici le lien de ma chaine: https://www.youtube.com/@Laperfectionschool
+je souhaite que la personne qui va cliquer sur ce lien soit diriger vers ma chaine
+tu peux prendre aussi mes extraits de mes cours sur ma chaine pour mettre cela à mon porfolio pour avoir plus d'évidence que c'est reelle
+tu peux aussi utiliser la photo comprendre la trigonometrie en 15 minutes
+Pour les experiences professionnelles: 
+2020-2021 j'ai enseigné aux écoles les cadres de demains, anaclet loungou, ceg gampo olilou
+2021-2022 enseignant de mathématiques à l'institut moliere
+10 avril 2023 la création de ma chaine youtube
+alors ce porfolio tu fais ça avec html, css et tailwindcss
+cela doit être bien fait , c'est pour me permettre peut etre de modifier certaines informations, le code doit etre en français avec des commentaires et avec un reade.me
